@@ -10,4 +10,4 @@ I love computer science and programming from 12.
 Now workin as SRE Engineer.
 
 ### Invite me on your server 🤣
-`ssh-import-id-gh aggyomfg`# aggyomfg
+`ssh-import-id-gh aggyomfg`
